@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="CppAdvance.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="adder.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
